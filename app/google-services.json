@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "844537418408",
+    "project_id": "mcc-lab-firestore",
+    "storage_bucket": "mcc-lab-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844537418408:android:e530e6ca1643168e75a89d",
+        "android_client_info": {
+          "package_name": "com.example.storetofirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844537418408-q5lgf5evqkdl5lqbh0ifonjdsc1d2b7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.storetofirestore",
+            "certificate_hash": "f74784abc211be575dea979fb8fa128d11b742da"
+          }
+        },
+        {
+          "client_id": "844537418408-i21passauakh481cujhnaemf041ushd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMfjgwoqay1IebTvnz_IrAGkER-Gvnx40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844537418408-i21passauakh481cujhnaemf041ushd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
